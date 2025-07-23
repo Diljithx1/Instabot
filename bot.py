@@ -8,7 +8,7 @@ from telegram.ext import (
 from instamoda import login_instagram, boost_followers, check_status
 
 load_dotenv()
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TOKEN = os.getenv("8173982703:AAExTFqe37Tn28dtX5_RwpAOfsB6Tmu-_XQ")
 
 LOGIN_USER, LOGIN_PASS = range(2)
 
